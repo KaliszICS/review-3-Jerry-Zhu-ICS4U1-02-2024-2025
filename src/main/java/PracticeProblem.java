@@ -47,7 +47,7 @@ public class PracticeProblem {
 		System.out.print("In: ");
 		double fracNum = input.nextDouble();
 		input.nextLine();
-		System.out.println(fracNum >= -2 && fracNum<= 2);
+		System.out.println(fracNum >= -2.0 && fracNum<= 2.0);
 
 	}
 
